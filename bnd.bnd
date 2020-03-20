@@ -1,0 +1,4 @@
+Bundle-Name: liferay72-employee-rest
+Bundle-SymbolicName: com.liferaysavvy.employee.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration

@@ -1,5 +1,5 @@
 # liferay72-employee-rest
-## Liferay Portal : Liferay 7.2 CE ++ | Liferay 7.2 DXP EE ++
+## Liferay Portal : Liferay 7.2 CE ++ |  Liferay 7.3 CE ++ | Liferay 7.2 DXP EE ++
 ### Installation
 * Clone current repo  
 `git clone https://github.com/LiferaySavvy/liferay72-employee-rest.git`    

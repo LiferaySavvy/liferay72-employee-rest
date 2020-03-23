@@ -1,6 +1,6 @@
 # liferay72-employee-rest
-### Liferay Portal : Liferay 7.2 CE ++ | Liferay 7.2 DXP EE ++
-## Installation
+## Liferay Portal : Liferay 7.2 CE ++ | Liferay 7.2 DXP EE ++
+### Installation
 * Clone current repo  
 `git clone https://github.com/LiferaySavvy/liferay72-employee-rest.git`    
 * Locate to project or import into your IDE run following gradle tasks.  
@@ -15,7 +15,7 @@ gradle build
 gradle deploy
 
 ````
-## Documentation 
+### Documentation 
 * http://www.liferaysavvy.com/2020/03/liferay-7dxp-jax-rs-rest-services.html
 * http://www.liferaysavvy.com/2020/03/liferay-jax-rs-osgi-rest-module.html 
 

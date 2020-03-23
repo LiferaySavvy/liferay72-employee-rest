@@ -2,7 +2,9 @@
 ## Liferay Portal : Liferay 7.2 CE ++ |  Liferay 7.3 CE ++ | Liferay 7.2 DXP EE ++
 ### Installation
 * Clone current repo  
-`git clone https://github.com/LiferaySavvy/liferay72-employee-rest.git`    
+`git clone https://github.com/LiferaySavvy/liferay72-employee-rest.git`
+* Direct download link  
+https://github.com/LiferaySavvy/liferay72-employee-rest/archive/master.zip
 * Locate to project or import into your IDE run following gradle tasks.  
 * Update Liferay Home path in build.gradle file.
 ````

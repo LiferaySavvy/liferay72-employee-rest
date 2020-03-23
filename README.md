@@ -7,9 +7,9 @@
 ````
 gradlew build
 gradlew deploy
-````
+
 OR
-````
+
 gradle build
 gradle deploy
 
